@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture\OA.Domain\bin\Release\net8.0\OA.Domain.deps.json
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture\OA.Domain\bin\Release\net8.0\OA.Domain.dll
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture\OA.Domain\bin\Release\net8.0\OA.Domain.pdb
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture\OA.Domain\obj\Release\net8.0\OA.Domain.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture\OA.Domain\obj\Release\net8.0\OA.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture\OA.Domain\obj\Release\net8.0\OA.Domain.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture\OA.Domain\obj\Release\net8.0\OA.Domain.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture\OA.Domain\obj\Release\net8.0\OA.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture\OA.Domain\obj\Release\net8.0\OA.Domain.dll
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture\OA.Domain\obj\Release\net8.0\refint\OA.Domain.dll
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture\OA.Domain\obj\Release\net8.0\OA.Domain.pdb
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture\OA.Domain\obj\Release\net8.0\ref\OA.Domain.dll
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture\OA.Domain\bin\Release\net8.0\OA.Domain.runtimeconfig.json
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture\OA.Domain\obj\Release\net8.0\OA.Domain.genruntimeconfig.cache
