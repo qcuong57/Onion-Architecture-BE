@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OA.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87faf7c8db76cee064ed8184a12838c11f284ca8")]
 [assembly: System.Reflection.AssemblyProductAttribute("OA.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OA.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

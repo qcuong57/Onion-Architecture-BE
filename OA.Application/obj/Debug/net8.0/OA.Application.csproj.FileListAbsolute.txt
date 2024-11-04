@@ -13,3 +13,19 @@ C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture\OA.Application\obj\D
 C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture\OA.Application\obj\Debug\net8.0\refint\OA.Application.dll
 C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture\OA.Application\obj\Debug\net8.0\OA.Application.pdb
 C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture\OA.Application\obj\Debug\net8.0\ref\OA.Application.dll
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture BE\OA.Application\bin\Debug\net8.0\OA.Application.deps.json
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture BE\OA.Application\bin\Debug\net8.0\OA.Application.dll
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture BE\OA.Application\bin\Debug\net8.0\OA.Application.pdb
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture BE\OA.Application\bin\Debug\net8.0\OA.Domain.dll
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture BE\OA.Application\bin\Debug\net8.0\OA.Domain.pdb
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture BE\OA.Application\obj\Debug\net8.0\OA.Application.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture BE\OA.Application\obj\Debug\net8.0\OA.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture BE\OA.Application\obj\Debug\net8.0\OA.Application.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture BE\OA.Application\obj\Debug\net8.0\OA.Application.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture BE\OA.Application\obj\Debug\net8.0\OA.Application.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture BE\OA.Application\obj\Debug\net8.0\OA.Application.sourcelink.json
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture BE\OA.Application\obj\Debug\net8.0\OA.Appli.1F8EC9CE.Up2Date
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture BE\OA.Application\obj\Debug\net8.0\OA.Application.dll
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture BE\OA.Application\obj\Debug\net8.0\refint\OA.Application.dll
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture BE\OA.Application\obj\Debug\net8.0\OA.Application.pdb
+C:\Users\ADMIN\Documents\SGU\HK1-N4\.NET\Onion Architecture BE\OA.Application\obj\Debug\net8.0\ref\OA.Application.dll

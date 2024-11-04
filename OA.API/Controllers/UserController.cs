@@ -62,5 +62,36 @@ public class UserController : ControllerBase
             return StatusCode(500, ex.Message);
         }
     }
+    
+    [HttpPut("{id}")]
+    public async Task<IActionResult> UpdateUser(int id, UpdateUserCommand command)
+    {
+        try
+        {
+            command.Id = id;
+            var user = await _mediator.Send(command);
+            return Ok(user);
+        }
+        catch (Exception ex)
+        {
+            _logger.LogError(ex, ex.Message);
+            return StatusCode(500, ex.Message);
+        }
+    }
+    
+    [HttpDelete("{id}")]
+    public async Task<IActionResult> DeleteUser(int id)
+    {
+        try
+        {
+            var user = await _mediator.Send(new DeleteUserCommand { Id = id });
+            return Ok(user);
+        }
+        catch (Exception ex)
+        {
+            _logger.LogError(ex, ex.Message);
+            return StatusCode(500, ex.Message);
+        }
+    }
 
 }
