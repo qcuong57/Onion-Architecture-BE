@@ -27,8 +27,7 @@ public class LoginCommandHandler : IRequestHandler<LoginCommand, LoginResponse>
             };
         }
 
-        // Assuming token generation logic here
-        var token = "some-generated-token";
+        var token = "token cua cuong";
 
         return new LoginResponse
         {
